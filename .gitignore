@@ -1,0 +1,9 @@
+*
+!.gitignore
+!CMakeLists.txt
+!src/
+!src/**
+!include/
+!include/**
+!z2_testing/
+!z2_testing/**
