@@ -30,6 +30,10 @@ d-run: build
 		docker compose build --build-arg SRC=$(SRC) && \
 		docker compose up --build 
 
+d-purge:
+	@export myUID=${myUID} &&\
+	COMPOSE_DOCKER_CLI_BUILD=1 DOCKER_BUILDKIT=1 \
+		docker compose down --volumes --remove-orphans --rmi local --timeout 0 
 
 
-.PHONY: build create run clean d-run
+.PHONY: build create run clean d-run d-purge
