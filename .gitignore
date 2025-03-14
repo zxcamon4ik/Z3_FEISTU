@@ -7,4 +7,8 @@
 !include/**
 !z2_testing/
 !z2_testing/**
-!tester.py
+!tester.pyg
+!docker/
+!docker/** 
+!dockerfile
+!docker-compose.yml

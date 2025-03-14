@@ -13,11 +13,22 @@ cases:
 create: cases build
 	@timeout 5 ./$(TARGET) < $(INPUT) > z2_testing/stdusr/$(NAME)
 
-build:
-	@make cases
+build: cases
+	rm -f $(TARGET)
 	@$(CC) $(CFLAGS) -o $(TARGET) ./src/z2.c ./src/functions.c ./src/data.c -lm
 
 run: build 
 	python3 tester.py
 
-.PHONY: build create run
+clean:
+	@rm -rf z2_testing/stdusr
+
+d-run: build
+	@export myUID=${myUID} && \
+	COMPOSE_DOCKER_CLI_BUILD=1 DOCKER_BUILDKIT=1 \
+		docker compose build --build-arg SRC=$(SRC) && \
+		docker compose up --build 
+
+
+
+.PHONY: build create run clean d-run

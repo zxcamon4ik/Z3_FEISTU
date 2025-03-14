@@ -1,0 +1,9 @@
+services:
+    tester:
+      build: .
+      command: ./start.sh
+      user: "${myUID-1000}"
+      volumes:
+      - ./include:/wd/include:rw
+      - ./src:/wd/src:rw
+      - ./z2_testing:/wd/z2_testing:rw
