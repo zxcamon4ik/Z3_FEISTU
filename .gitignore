@@ -7,3 +7,4 @@
 !include/**
 !z2_testing/
 !z2_testing/**
+!tester.py
