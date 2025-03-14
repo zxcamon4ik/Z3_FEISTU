@@ -11,6 +11,5 @@ set -o nounset
 # Print a trace of commands.
 set -o xtrace
 # [bash_init]-[END]
-make build 
-chown +x TCase
+
 make run

@@ -24,6 +24,7 @@ COPY --chown=${USER}:555 ./src src
 COPY --chown=${USER}:777 ./z2_testing z2_testing
 COPY --chown=${USER}:555 ./tester.py tester.py
 
+RUN chmod -R a+w ${WORKDIR}
 
 
 ENTRYPOINT ["./entrypoint.sh"]
