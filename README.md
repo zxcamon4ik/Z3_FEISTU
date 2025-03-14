@@ -1,4 +1,4 @@
-# Z1_FEISTU Tester Docs ♿→👨‍🔬
+# Z2_FEISTU Tester Guide ♿→👨‍🔬
 
 ---
 
