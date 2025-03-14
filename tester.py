@@ -40,12 +40,17 @@ class TesterZ(unittest.TestCase):
                 except Exception as e:
                     self.fail(f"Could not read result output file {result_output_path}: {e}")
 
-                self.assertMultiLineEqual(
-                    expected,
-                    usrresult,
-                    f"Scenar_{scenario} Test {test_number} FAILED"
-                )
-                print(f"Scenar_{scenario} Test {test_number}: SUCCESS")
+                try:
+                    self.assertMultiLineEqual(
+                        expected,
+                        usrresult,
+                        f"Scenar_{scenario} Test {test_number} FAILED"
+                    )
+                except AssertionError as e:
+                    print(f"\033[91mScenario {scenario} Case {test_number}: FAILURE\033[0m")
+                    raise e
+                else:
+                    print(f"\033[92mScenario {scenario} Case {test_number}: SUCCESS\033[0m")
 
     def test_all_scenarios(self):
         for scenario in ["1", "2", "3", "4", "5", "6", "7"]:
@@ -53,4 +58,3 @@ class TesterZ(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
-    
