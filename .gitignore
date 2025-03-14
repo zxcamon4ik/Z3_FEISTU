@@ -12,3 +12,4 @@
 !docker/** 
 !dockerfile
 !docker-compose.yml
+!README.md
