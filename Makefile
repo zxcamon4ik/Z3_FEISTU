@@ -14,12 +14,12 @@ create: cases build
 	@timeout 5 ./$(TARGET) < $(INPUT) > z2_testing/stdusr/$(NAME)
 
 build:
-	rm -f $(TARGET)
+	@rm -f $(TARGET)
 	@$(CC) $(CFLAGS) -o $(TARGET) ./src/z2.c ./src/functions.c ./src/data.c -lm
 
 
 run: build 
-	python3 tester.py
+	@python3 tester.py
 
 clean:
 	@rm -rf z2_testing/stdusr
