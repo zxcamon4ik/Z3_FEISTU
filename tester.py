@@ -53,8 +53,9 @@ class TesterZ(unittest.TestCase):
                     print(f"\033[92mScenario {scenario} Case {test_number}: SUCCESS\033[0m")
 
     def test_all_scenarios(self):
-        for scenario in ["1", "2", "3", "4", "5", "6", "7"]:
+        for scenario in ["1", "2", "3", "4", "5", "6", "7","8","9","10"]:
             self.run_scenario(scenario)
 
 if __name__ == "__main__":
     unittest.main()
+
