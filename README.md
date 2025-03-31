@@ -1,4 +1,4 @@
-# Z2_FEISTU Tester Guide ♿→👨‍🔬
+# Z3_FEISTU Tester Guide ♿→👨‍🔬
 
 ---
 
@@ -15,15 +15,15 @@ Hey there! Ready to get started? Follow these steps to install and run the proje
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/zxcamon4ik/Z2_FEISTU.git
-   cd Z2_FEISTU
+   git clone https://github.com/zxcamon4ik/Z3_FEISTU.git
+   cd Z3_FEISTU
    ```
 
 2. **Install Dependencies:**
    Make sure you have [Python 3.12+](https://www.python.org/), [Make](https://www.gnu.org/software/make/manual/make.html) and [GCC](https://gcc.gnu.org/) installed.
 
 3. **Prepare Your C File:**
-   - Place your `.c` file named **z2.c** into src/.
+   - Place your `.c` file named **z3.c** into project root
 
 4. **Run the Project:**
    ```bash
