@@ -1,0 +1,4 @@
+in Myslim, teda som.
+move sp 10
+move ep -10
+del

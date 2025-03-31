@@ -1,0 +1,5 @@
+in Veda je to, co vies. Filozofia je to, co nevies.
+move ep -28
+copy
+out mem
+quit

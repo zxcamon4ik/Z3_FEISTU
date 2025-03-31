@@ -1,0 +1,4 @@
+in Nezlyhal som. Prave som nasiel 10 000 sposobov, ktore nebudu fungovat.
+move ep -57
+out range
+quit

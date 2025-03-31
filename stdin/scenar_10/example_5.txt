@@ -1,0 +1,10 @@
+in The more you know who you are, and what you want, the less you let things upset you.
+move sp 50
+prev
+copy
+out mem
+first
+out range
+insert mem
+out op
+quit

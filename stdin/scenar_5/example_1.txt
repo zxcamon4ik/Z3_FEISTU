@@ -1,0 +1,7 @@
+in O com sa neda hovorit, o tom treba mlcat.
+move sp 9
+move ep -32
+out range
+del
+out op
+quit

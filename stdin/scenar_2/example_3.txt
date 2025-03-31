@@ -1,0 +1,5 @@
+in Ak chcete zit stastny zivot, spojte ho s cielom, nie s ludmi alebo vecami.
+move sp 14
+move ep -47
+out range
+quit

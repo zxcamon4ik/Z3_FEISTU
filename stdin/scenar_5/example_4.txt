@@ -1,0 +1,7 @@
+in Vedomosti ziadneho cloveka tu nemozu prekrocit jeho skusenosti.
+move sp 10
+move ep -33
+out range
+del
+out op
+quit

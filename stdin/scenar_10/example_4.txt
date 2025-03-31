@@ -1,0 +1,6 @@
+in When you change your thoughts, remember to also change your world.
+move sp 41
+prev
+copy
+out mem
+quit

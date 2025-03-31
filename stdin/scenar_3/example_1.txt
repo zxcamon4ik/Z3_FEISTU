@@ -1,0 +1,4 @@
+in +---------S()()SLOVO
+first
+out range
+quit

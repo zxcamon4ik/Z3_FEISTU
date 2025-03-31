@@ -1,0 +1,3 @@
+in A
+out op
+quit

@@ -1,0 +1,10 @@
+in Keep your friends close, but your enemies closer.
+move sp 18
+move ep -26
+out range
+copy
+move sp 7
+move ep 4
+replace
+out op
+quit

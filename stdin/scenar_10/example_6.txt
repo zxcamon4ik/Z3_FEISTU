@@ -1,0 +1,10 @@
+in Do one thing every day that scares you.
+move sp 3
+next
+copy
+out mem
+next
+out range
+replace
+out op
+quit

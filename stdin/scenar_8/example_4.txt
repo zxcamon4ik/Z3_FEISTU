@@ -1,0 +1,4 @@
+in Eighty percent of success is showing up.
+insert 15
+out op
+quit

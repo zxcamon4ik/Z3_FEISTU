@@ -1,0 +1,9 @@
+in I have always depended on the kindness of strangers.
+move sp 30
+move ep -1
+copy
+out mem
+move sp -30
+insert mem
+out op
+quit

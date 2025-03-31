@@ -1,0 +1,7 @@
+in I think therefore I am.
+move sp 5
+move ep -18
+out range
+replace
+out op
+quit

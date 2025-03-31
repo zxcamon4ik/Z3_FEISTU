@@ -1,0 +1,3 @@
+in 100znakov.100znakov.100znakov.100znakov.100znakov.100znakov.100znakov.100znakov.100znakov.100znakov.
+out op
+quit

@@ -1,0 +1,7 @@
+in Ten, kto ma velke myslienky, casto robi velke chyby.
+move sp 20
+move ep -31
+out range
+del
+out op
+quit

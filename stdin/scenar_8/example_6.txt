@@ -1,0 +1,5 @@
+in Genius is one percent inspiration and ninety-nine percent perspiration.
+move sp 71
+insert 3
+out op
+quit

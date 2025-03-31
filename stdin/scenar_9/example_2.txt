@@ -1,0 +1,4 @@
+in If you are going through hell, keep going.
+move sp 27
+move ep -25
+replace

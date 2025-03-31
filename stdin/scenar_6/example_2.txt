@@ -1,0 +1,4 @@
+in Je len jedno dobro, poznanie a jedno zlo, nevedomost.
+move sp 30
+move ep -28
+crop

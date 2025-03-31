@@ -1,0 +1,6 @@
+in Je len jedna vec, na ktoru sa da filozof spolahnut, a to, ze protireci inym filozofom.
+move sp 16
+move ep -70
+copy
+out mem
+quit

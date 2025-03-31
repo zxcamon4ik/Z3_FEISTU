@@ -1,0 +1,5 @@
+in Frankly, my dear, I don't give a damn.
+move sp 8
+insert 5
+out op
+quit

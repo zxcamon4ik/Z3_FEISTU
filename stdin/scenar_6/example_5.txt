@@ -1,0 +1,7 @@
+in Filozofia je boj proti ocareniu nasej inteligencie pomocou jazyka.
+move sp 13
+move ep -50
+out range
+crop
+out op
+quit

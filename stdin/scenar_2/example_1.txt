@@ -1,0 +1,4 @@
+in Nezalezi na tom, ako pomaly ides, pokial sa nezastavis.
+move sp 21
+out range
+quit

@@ -1,0 +1,7 @@
+in Ak by Boh neexistoval, bolo by potrebne ho vynajst.
+move sp 6
+move ep -44
+out range
+crop
+out op
+quit

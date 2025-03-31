@@ -1,0 +1,4 @@
+in start stred koniec
+next
+out range
+quit

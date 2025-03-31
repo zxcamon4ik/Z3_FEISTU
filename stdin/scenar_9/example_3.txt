@@ -1,0 +1,4 @@
+in If you want something done right, do it yourself.
+replace
+out op
+quit

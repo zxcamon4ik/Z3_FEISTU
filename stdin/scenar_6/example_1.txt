@@ -1,0 +1,7 @@
+in Sloboda spociva v robeni toho, po com clovek tuzi.
+move sp 25
+move ep -25
+out range
+crop
+out op
+quit

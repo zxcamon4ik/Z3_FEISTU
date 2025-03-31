@@ -1,0 +1,6 @@
+in Confident people have a way of carrying themselves that makes others attracted to them.
+move sp 22
+next
+copy
+out mem
+quit

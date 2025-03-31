@@ -1,0 +1,3 @@
+in Text, ktory obsahuje vela slov. Slnko stale svieti. Pocuvam hlas srdca. Programujem v jazyku C.
+out op
+quit

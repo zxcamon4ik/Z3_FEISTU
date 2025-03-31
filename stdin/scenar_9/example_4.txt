@@ -1,0 +1,10 @@
+in I will be back.
+move sp 10
+move ep -1
+out range
+copy
+move sp -7
+move ep -5
+replace
+out op
+quit

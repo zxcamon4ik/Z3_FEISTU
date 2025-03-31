@@ -1,0 +1,15 @@
+in It is never too late to be what you might have been.
+move sp 30
+first
+out range
+del
+last
+copy
+out mem
+prev
+out range
+prev
+out range
+insert mem
+out op
+quit

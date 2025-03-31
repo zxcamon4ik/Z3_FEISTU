@@ -1,0 +1,6 @@
+in Volny cas je matkou filozofie.
+move sp 6
+out range
+crop
+out op
+quit

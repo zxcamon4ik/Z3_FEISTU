@@ -3,9 +3,9 @@ from pathlib import Path
 import subprocess
 
 project_root = Path(__file__).resolve().parent
-stdin_path = project_root / "z2_testing" / "stdin"
-stdout_path = project_root / "z2_testing" / "stdout"
-stdusr_path = project_root / "z2_testing" / "stdusr"
+stdin_path = project_root / "stdin"
+stdout_path = project_root / "stdout"
+stdusr_path = project_root / "stdusr"
 
 class TesterZ(unittest.TestCase):
     def run_scenario(self, scenario: str):
@@ -31,12 +31,12 @@ class TesterZ(unittest.TestCase):
                 )
 
                 try:
-                    expected = expected_output_path.read_text()
+                    expected = expected_output_path.read_text().rstrip()
                 except Exception as e:
                     self.fail(f"Could not read expected output file {expected_output_path}: {e}")
 
                 try:
-                    usrresult = result_output_path.read_text().rstrip("\n")
+                    usrresult = result_output_path.read_text().rstrip()
                 except Exception as e:
                     self.fail(f"Could not read result output file {result_output_path}: {e}")
 

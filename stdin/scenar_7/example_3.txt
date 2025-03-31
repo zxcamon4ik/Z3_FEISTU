@@ -1,0 +1,6 @@
+in Zivot musi byt chapany dozadu. Ale musi sa zit dopredu.
+move sp 31
+move ep -23
+copy
+out mem
+quit

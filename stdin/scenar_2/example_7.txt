@@ -1,0 +1,6 @@
+in Mam rad kritiku. Robi ta silnym.
+move ep -5
+move sp 17
+end ep
+out range
+quit

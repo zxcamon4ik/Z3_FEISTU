@@ -1,0 +1,5 @@
+in .......4hockey......2football89........basketball.......5chess.................
+move sp 7
+next
+out range
+quit

@@ -1,0 +1,4 @@
+in prikaz prev v tejto vete nenajde slovo
+prev
+out range
+quit

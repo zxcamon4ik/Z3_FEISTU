@@ -1,0 +1,4 @@
+in Sme tym, co opakovane robime. Dokonalost teda nie je cin, ale zvyk.
+move sp 40
+move ep -40
+copy

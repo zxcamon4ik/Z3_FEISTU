@@ -19,10 +19,10 @@ COPY --chown=${USER}:555 ./docker/service/start.sh ./start.sh
 RUN chmod +x ./entrypoint.sh ./start.sh
 
 COPY --chown=${USER}:555 ./Makefile Makefile
-COPY --chown=${USER}:555 ./include include
-COPY --chown=${USER}:555 ./src src
-COPY --chown=${USER}:777 ./z2_testing z2_testing
+COPY --chown=${USER}:555 ./stdin stdin
+COPY --chown=${USER}:777 ./stdout stdout
 COPY --chown=${USER}:555 ./tester.py tester.py
+COPY --chown=${USER}:555 ./z3.c z3.c
 
 RUN chmod -R a+w ${WORKDIR}
 

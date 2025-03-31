@@ -1,0 +1,6 @@
+in Ak chcete pisat o zivote, musite ho najskor zit.
+move sp 3
+move ep -16
+start sp
+out range
+quit

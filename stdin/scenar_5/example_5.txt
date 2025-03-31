@@ -1,0 +1,6 @@
+in Boh nie je ochotny urobit vsetko, a tak nam vziat slobodnu volu a podiel na slave, ktory nam patri.
+move ep -96
+out range
+del
+out op
+quit

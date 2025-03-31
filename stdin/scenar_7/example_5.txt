@@ -1,0 +1,5 @@
+in Metafyzika je temny ocean bez brehov a majakov, posiaty mnohymi filozofickymi troskami.
+move sp 78
+copy
+out mem
+quit

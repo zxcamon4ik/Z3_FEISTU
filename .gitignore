@@ -1,12 +1,10 @@
 *
 !.gitignore
 !Makefile
-!src/
-!src/**
-!include/
-!include/**
-!z2_testing/
-!z2_testing/**
+!stdin/
+!stdin/**
+!stdout/
+!stdout/**
 !tester.pyg
 !docker/
 !docker/** 
