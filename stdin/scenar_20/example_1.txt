@@ -1,0 +1,11 @@
+in It caught him off guard that space smelled of seared steak.
+first
+out range
+move sp 30
+end ep
+out range
+prev
+out range
+del
+out op
+quit

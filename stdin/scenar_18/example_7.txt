@@ -1,0 +1,9 @@
+in The lyrics of the song sounded like fingernails on a chalkboard.
+move sp 18
+move ep -42
+copy
+out mem
+move sp -14
+insert mem
+out op
+quit

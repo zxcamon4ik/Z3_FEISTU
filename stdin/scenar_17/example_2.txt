@@ -1,0 +1,4 @@
+in Nothing seemed out of place except the washing machine in the bar.
+move sp 52
+move ep -36
+copy

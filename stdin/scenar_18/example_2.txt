@@ -1,0 +1,6 @@
+in Swim at your own risk was taken as a challenge for the group of Kansas City college students.
+move sp 40
+move ep -33
+copy
+out mem
+insert mem

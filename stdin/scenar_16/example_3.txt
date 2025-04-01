@@ -1,0 +1,6 @@
+in She finally understood that grief was her love with no place for it to go.7
+move sp 74
+out range
+crop
+out op
+quit

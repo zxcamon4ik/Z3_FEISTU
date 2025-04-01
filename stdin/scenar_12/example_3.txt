@@ -1,0 +1,5 @@
+in The thick foliage and intertwined vines made the hike nearly impossible.
+move sp 13
+move ep -44
+out range
+quit

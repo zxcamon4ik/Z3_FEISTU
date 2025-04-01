@@ -1,0 +1,6 @@
+in He had a hidden stash underneath the floorboards in the back room of the house.
+move sp 53
+out range
+del
+out op
+quit

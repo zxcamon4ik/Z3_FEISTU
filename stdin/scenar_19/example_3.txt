@@ -1,0 +1,7 @@
+in The knives were out and she was sharpening hers.
+move sp 5
+move ep -5
+out mem
+replace
+out op
+quit

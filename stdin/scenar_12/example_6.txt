@@ -1,0 +1,6 @@
+in Standing on one's head at job interviews forms a lasting impression.
+move sp 10
+move ep -18
+start sp
+out range
+quit

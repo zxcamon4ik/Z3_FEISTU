@@ -1,0 +1,6 @@
+in She was the type of girl who wanted to live in a pink house.
+move sp 30
+move ep -12
+copy
+out mem
+quit

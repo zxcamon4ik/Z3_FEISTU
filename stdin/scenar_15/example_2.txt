@@ -1,0 +1,4 @@
+in He figured a few sticks of dynamite were easier than a fishing pole to catch fish.
+move sp 50
+move ep -50
+del

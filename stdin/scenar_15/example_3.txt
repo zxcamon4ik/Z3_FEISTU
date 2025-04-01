@@ -1,0 +1,7 @@
+in She wanted a pet platypus but en7ded up getting a duck and a ferret instead.
+move sp 32
+move ep -43
+out range
+del
+out op
+quit

@@ -1,0 +1,6 @@
+in A suit of armor provides excellent sun protection on hot days.
+move ep -31
+move sp 13
+end ep
+out range
+quit

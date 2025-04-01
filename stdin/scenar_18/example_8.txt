@@ -1,0 +1,10 @@
+in She cried diamonds.
+move sp 4
+move ep -10
+copy
+out mem
+move sp 5
+move ep 10
+insert mem
+out op
+quit

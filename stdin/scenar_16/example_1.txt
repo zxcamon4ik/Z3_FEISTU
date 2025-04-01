@@ -1,0 +1,7 @@
+in Sometimes you have to just give up and win by cheating.
+move sp 15
+move ep -40
+out range
+crop
+out op
+quit

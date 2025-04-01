@@ -1,0 +1,5 @@
+in Joe made the sugar cookies; Susan decorated them.
+out mem
+insert mem
+out op
+quit

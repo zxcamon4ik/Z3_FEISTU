@@ -1,0 +1,6 @@
+in He turned in the research paper on Friday; otherwise, he would have not passed the class.
+move sp 72
+out range
+crop
+out op
+quit

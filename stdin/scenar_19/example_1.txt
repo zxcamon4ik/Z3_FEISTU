@@ -1,0 +1,11 @@
+in Check back tomorrow; I will see if the book has arrived.
+move sp 11
+move ep -36
+out range
+copy
+out mem
+move sp 9
+out range
+replace
+out op
+quit

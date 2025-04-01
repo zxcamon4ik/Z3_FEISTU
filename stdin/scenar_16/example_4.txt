@@ -1,0 +1,6 @@
+in I am a living furnace.
+move ep -12
+out range
+crop
+out op
+quit

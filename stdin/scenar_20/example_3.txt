@@ -1,0 +1,15 @@
+in In that instant, everything changed.
+move sp 10
+move ep -10
+out range
+del
+out op
+move ep 5
+out range
+copy
+out mem
+start sp
+end ep
+replace
+out op
+quit

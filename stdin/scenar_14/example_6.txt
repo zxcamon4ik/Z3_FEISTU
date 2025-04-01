@@ -1,0 +1,5 @@
+in ?Z=bH;%}qz,1F%$=1/2kfXVMh-
+move sp 6
+next
+out range
+quit

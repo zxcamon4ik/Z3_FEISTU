@@ -1,0 +1,12 @@
+in Plans for this weekend include turning wine into water.
+move sp 26
+move ep -13
+out range
+copy
+out mem
+move sp -6
+move ep 5
+out range
+replace
+out op
+quit

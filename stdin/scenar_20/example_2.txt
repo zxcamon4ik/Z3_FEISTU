@@ -1,0 +1,12 @@
+in The ants enjoyed the barbecue more than the family.
+last
+out range
+start sp
+start ep
+move ep 2
+out range
+next
+out range
+crop
+out op
+quit

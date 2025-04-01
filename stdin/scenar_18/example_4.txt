@@ -1,0 +1,4 @@
+in Potato wedges probably are not best for relationships.
+insert 5
+out op
+quit

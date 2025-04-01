@@ -1,0 +1,5 @@
+in The doll spun around in circles in hopes of coming alive.
+move sp 44
+copy
+out mem
+quit

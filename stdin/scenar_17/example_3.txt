@@ -1,0 +1,6 @@
+in The sun had set and so had his dreams.
+move sp 17
+move ep -20
+copy
+out mem
+quit

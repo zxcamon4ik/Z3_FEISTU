@@ -1,0 +1,4 @@
+in So long and thanks for the fish.
+copy
+out mem
+quit

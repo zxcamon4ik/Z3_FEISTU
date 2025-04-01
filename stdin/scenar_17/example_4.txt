@@ -1,0 +1,5 @@
+in Choosing to do nothing is still a choice, after all.
+move ep -41
+copy
+out mem
+quit

@@ -1,0 +1,5 @@
+in @t.xwYj8Aen2VubP:BkPmGyD:73N_;6=xicN&vaCE-[/16]X3R6N7MKqYqB(fj1cTg+Jnfm2&S:PADLB)Gc2LxQfGj
+move sp 20
+next
+out range
+quit

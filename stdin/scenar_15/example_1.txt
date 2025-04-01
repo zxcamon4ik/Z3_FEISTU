@@ -1,0 +1,7 @@
+in Red is greener than purple, for sure.
+move sp 16
+move ep -21
+out range
+del
+out op
+quit

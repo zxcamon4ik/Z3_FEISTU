@@ -1,0 +1,4 @@
+in She was amazed by the large chunks of ice washing up on the beach.
+move sp 8
+out range
+quit

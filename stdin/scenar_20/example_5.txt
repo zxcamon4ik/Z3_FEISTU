@@ -1,0 +1,31 @@
+in There can never be too many cherries on an ice cream sundae.
+first
+out range
+last
+out range
+start sp
+end ep
+next
+out range
+prev
+out range
+del
+out op
+start sp
+end ep
+next
+next
+next
+next
+out range
+crop
+out op
+copy
+out mem
+insert mem
+out op
+move sp 2
+out range
+replace
+out op
+quit

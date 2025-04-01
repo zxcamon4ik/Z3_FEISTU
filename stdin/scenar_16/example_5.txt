@@ -1,0 +1,7 @@
+in He would only survive if he kept the fire going and he could hear thunder in the distance.
+move sp 34
+move ep -22
+out range
+crop
+out op
+quit

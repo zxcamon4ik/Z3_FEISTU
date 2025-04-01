@@ -1,0 +1,4 @@
+in They got there early, and they got really good seats.
+del
+out op
+quit

@@ -1,0 +1,10 @@
+in The swirled lollipop had issues with the pop rock candy.
+move sp 41
+out range
+copy
+out mem
+move sp 4
+out range
+replace
+out op
+quit

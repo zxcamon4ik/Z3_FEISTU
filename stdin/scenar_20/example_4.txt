@@ -1,0 +1,18 @@
+in Mary plays the piano.
+move sp 1
+move ep -7
+out range
+crop
+out op
+start sp
+end ep
+move ep -4
+out range
+copy
+out mem
+start sp
+move sp 4
+out range
+replace
+out op
+quit

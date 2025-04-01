@@ -1,0 +1,4 @@
+in The wake behind the boat told of the past while the open sea for told life in the unknown future.
+move sp 30
+move ep -90
+crop

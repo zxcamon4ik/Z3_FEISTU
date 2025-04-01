@@ -1,0 +1,5 @@
+in It's a skateboarding penguin with a sunhat!
+move sp 24
+insert 10
+out op
+quit

@@ -1,0 +1,7 @@
+in The shooter says goodbye to his love.
+move sp 17
+move ep -13
+out range
+del
+out op
+quit

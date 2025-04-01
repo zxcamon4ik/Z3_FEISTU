@@ -1,0 +1,6 @@
+in People generally approve of dogs eating cat food but not cats eating dog food.
+move sp 40
+move ep -38
+copy
+out mem
+quit
