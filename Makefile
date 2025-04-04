@@ -1,7 +1,7 @@
 myUID := $(shell id -u)
 
 CC = gcc
-CFLAGS = 
+CFLAGS = -Wall -Wextra -lm
 TARGET = TCase
 NAME = tmpTest.txt
 INPUT = stdin/scenar_1/example_1.txt
@@ -15,7 +15,7 @@ create: cases build
 
 build:
 	@rm -f $(TARGET)
-	@$(CC) $(CFLAGS) -o $(TARGET) ./z3.c 
+	@$(CC) $(CFLAGS) -o $(TARGET) ./z3.c
 
 
 run: build 
